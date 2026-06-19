@@ -13,7 +13,7 @@ const LANG_COLORS = {
 };
 
 const THEMES = {
-  feature: { badge: '🚀 Feature Ship', badgeLabel: 'Merged ✨' },
+  feature: { badge: '🌟 Feature Ship', badgeLabel: 'Merged ✨' },
   bugfix:  { badge: '🐛 Bug Squash',   badgeLabel: 'Fixed 🐛' },
   perf:    { badge: '⚡ Perf Win',     badgeLabel: 'Optimized ⚡' },
   oss:     { badge: '🌐 Open Source',  badgeLabel: 'Contributed 🌐' },
@@ -21,7 +21,7 @@ const THEMES = {
 
 const TWEET_TEMPLATES = {
   feature: (pr, caption) => [
-    `🚀 Just shipped: ${pr.title}`,
+    `🌟 Just shipped: ${pr.title}`,
     caption ? `\n"${caption}"` : '',
     `\n✅ ${pr.changedFiles} files · +${fmtNum(pr.additions)} / −${fmtNum(pr.deletions)}`,
     pr.languages?.length ? `\n🏷 ${pr.languages.join(' · ')}` : '',
@@ -252,7 +252,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   document.getElementById('share-li-btn').addEventListener('click', () => {
     const caption = captionInput.value.trim();
     const body = [
-      `🚀 Just shipped: ${prData.title}`,
+      `🌟 Just shipped: ${prData.title}`,
       caption ? `\n\n${caption}` : '',
       `\n\n📊 ${prData.changedFiles} files changed · +${fmtNum(prData.additions)} additions · −${fmtNum(prData.deletions)} deletions`,
       prData.languages?.length ? `\n🏷 Built with: ${prData.languages.join(', ')}` : '',

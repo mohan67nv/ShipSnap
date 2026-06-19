@@ -1,4 +1,4 @@
-# ShipSnap 🚀
+# ShipSnap 🌟
 
 <div align="center">
   <img src="samples/screenshot-1.png" alt="ShipSnap Hero" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
@@ -22,7 +22,7 @@ Build your personal brand as a developer. Ship publicly. 🌐
 - **One-click injection:** Adds a "Share PR" button directly on GitHub PR pages
 - **Real stats:** Fetches actual files changed, additions, and deletions via GitHub API
 - **Language badges:** Auto-detects repo languages with per-language colour coding
-- **4 Card Themes:** 🚀 Feature Ship · 🐛 Bug Squash · ⚡ Perf Win · 🌐 Open Source
+- **4 Card Themes:** 🌟 Feature Ship · 🐛 Bug Squash · ⚡ Perf Win · 🌐 Open Source
 - **Live Preview:** Write a custom caption and see the card update in real time
 - **3× PNG download:** Crystal-clear image optimized for social media
 - **One-click social sharing:** Share on X or LinkedIn with pre-filled, emoji-rich post text
@@ -69,4 +69,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 [MIT License](LICENSE) - Copyright (c) 2024 Mohana Nyamanahalli Venkatesha
 
 ---
-*Built with ❤️ by [@mohan67nv](https://github.com/mohan67nv).*
