@@ -86,11 +86,9 @@ body {
 .brand { display: flex; align-items: center; gap: 9px; }
 
 .brand-logo {
-  width: 30px; height: 30px;
-  background: linear-gradient(135deg,#8250df,#a371f7);
-  border-radius: 7px;
-  display: flex; align-items: center; justify-content: center;
-  box-shadow: 0 0 14px rgba(130,80,223,0.4);
+  width: 28px; height: 28px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(130,80,223,0.3);
 }
 
 .brand-name {
