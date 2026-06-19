@@ -49,7 +49,7 @@ Currently in Developer Mode (Chrome Web Store listing pending):
    ```
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable **Developer mode** (top right toggle)
-4. Click **Load unpacked** and select the cloned directory
+4. Click **Load unpacked** and select the `src` folder inside the cloned directory
 5. Navigate to any GitHub PR page — you'll see the **📸 Share PR** button appear!
 
 ---
