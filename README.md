@@ -31,8 +31,9 @@ Build your personal brand as a developer. Ship publicly. 🌐
 ## 📸 More Examples
 
 <div style="display: flex; gap: 10px;">
-  <img src="samples/screenshot-2.png" alt="Bug Squash Theme" width="400">
-  <img src="samples/screenshot-3.png" alt="Open Source Theme" width="400">
+  <img src="samples/screenshot-4.png" alt="Custom Caption Example" width="260">
+  <img src="samples/screenshot-2.png" alt="Bug Squash Theme" width="260">
+  <img src="samples/screenshot-3.png" alt="Open Source Theme" width="260">
 </div>
 
 ---

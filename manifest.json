@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ShipSnap",
   "version": "1.0.0",
-  "description": "Turn your GitHub PRs into beautiful, shareable cards — with stats, themes & one-click social sharing. Build your personal brand as a developer.",
+  "description": "Turn GitHub PRs into beautiful shareable cards with stats, themes & social sharing. Build your developer brand.",
   "permissions": [
     "activeTab",
     "scripting",
